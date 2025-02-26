@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "queue": "cpp",
+        "iostream": "cpp",
+        "xutility": "cpp"
+    }
+}
